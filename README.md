@@ -1,1 +1,1 @@
-<h1 align="center"> Hello 🥸, I'm Luis Guardia <img  src="https://i.giphy.com/c5wbvuaVVLWzC.webp" width="80"/> <br> a Technology Enthusiast based in Panamá
+<h1 align="center"> Hello 🥸 <br> I'm Luis Guardia <img src="https://i.giphy.com/c5wbvuaVVLWzC.webp" width="60"/> <br> a Technology Enthusiast based in Panamá <img src="https://cdn-icons-png.flaticon.com/256/330/330316.png" width="30"/>
