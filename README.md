@@ -3,7 +3,7 @@
 **Linux | Network | Python | Cybersecurity**
 
 📍 Panamá, Panamá  
-🌐 [Resumen Web](https://luisguardia.netlify.app/){:target="_blank"}
+🌐<a href="https://luisguardia.netlify.app/" target="_blank" rel="noopener noreferrer">[Resumen Web]</a>
 👤 [LinkedIn](https://linkedin.com/in/luis-g-ba4732200){:target="_blank"}
 📩 guardialuis714@gmail.com
 
