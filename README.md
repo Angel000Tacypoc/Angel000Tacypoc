@@ -5,7 +5,7 @@
 📍 Panamá, Panamá  
 🌐<a href="https://luisguardia.netlify.app/" target="_blank" rel="noopener noreferrer">Resumen Web</a>
 <br>
-👤 <a href="https://linkedin.com/in/luis-g-ba4732200" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+👤<a href="https://linkedin.com/in/luis-g-ba4732200" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 <br>
 📩 guardialuis714@gmail.com
 
@@ -108,25 +108,25 @@ Highlighted certifications:
 
 ### Blockchain in Python
 Implementation of a blockchain from scratch using Python and Flask.
-🔗 [GitHub Repository](https://github.com/Angel000Tacypoc/BlockchainPython-Flask-Postman)
+🔗 <a href="https://github.com/Angel000Tacypoc/BlockchainPython-Flask-Postman" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
 
 ---
 
 ### Trading Analyzer for BingX
 Python tool for analyzing cryptocurrency trading data from BingX exchange.
-🔗 [GitHub Repository](https://github.com/Angel000Tacypoc/trading-analyzer-pro)
+🔗 <a href="https://github.com/Angel000Tacypoc/trading-analyzer-pro" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
 
 ---
 
 ### Bandit Linux Challenges
 Practical walkthrough and solutions for OverTheWire Bandit challenges focused on Linux command-line fundamentals.
-🔗 [YouTube Playlist](https://www.youtube.com/embed/4wohTs2QZ3g)
+🔗 [<a href="https://www.youtube.com/embed/4wohTs2QZ3g" target="_blank" rel="noopener noreferrer">YouTube Video</a>
 
 ---
 
 ### Panama Canal Railway — Website Redesign
 Redesigned and reorganized the Panama Canal Railway website with improved structure and usability.
-🔗 [Live Site](https://panamacanalrailway.netlify.app/)
+🔗 <a href="https://panamacanalrailway.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site</a>
 
 ---
 
@@ -136,48 +136,23 @@ Redesigned and reorganized the Panama Canal Railway website with improved struct
 - **Cybersecurity:** Practical skills through projects and self-study
 - **Cloud Computing:** AWS and Azure security fundamentals
 - **Advanced Linux:** System administration, hardening, and automation
-- **DevOps Basics:** CI/CD, infrastructure as code (Terraform), container orchestration
+- **DevOps Basics:** CI/CD, infrastructure as code, container orchestration (docker)
 
 ---
 
 ## 🎓 Education
 
-### Licenciatura en Desarrollo de Aplicaciones Tecnológicas  
-**Universidad** *(on hold — planned restart in 2027)*  
+### Bachelor's Degree in Technological Application Development  
+**University** *(on hold — planned restart in 2027)*  
 *Started 2026 · Currently paused*
 
-### Técnico Superior Especializado en Ciberseguridad  
-**Instituto** *(incomplete — paused due to work)*  
+### Higher Technical Degree in Cybersecurity  
+**Institute** *(incomplete — paused due to work)*  
 *2024 - 2025*
 
 ---
 
-## 🎯 What I'm Building Towards
-
-I am currently in a **transition phase**. I don't have completed degrees, but I compensate with:
-
-- Practical, hands-on projects that demonstrate real skills
-- Certifications from recognized platforms (Platzi, Microsoft)
-- Real work experience in support and customer success
-- A commitment to continuous learning and improvement
-
-My goal is to **compete globally** by:
-
-1. Reaching **English B2** within 12 months
-2. Building a **strong portfolio** with documentation in English
-3. Getting **international certifications** (AWS, Security+, CCNA)
-4. Transitioning from local support to **remote technical roles** for international companies
-
----
-
 ## 🤝 Let's Connect
-
-I am open to:
-
-- Entry-level remote support or NOC positions
-- Collaboration on open-source projects
-- Cybersecurity and Linux learning groups
-- English-speaking technical communities
 
 Feel free to connect with me through LinkedIn, GitHub, or email.
 
