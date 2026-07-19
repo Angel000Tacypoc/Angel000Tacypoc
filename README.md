@@ -1,10 +1,10 @@
 # Luis Guardia
 
-**Soporte Técnico & Customer Success | Linux | Redes | Python | Ciberseguridad en formación**
+**Linux | Redes | Python | Cybersecurity**
 
 📍 Panamá, Panamá  
+🌐 [Resumen Web](https://luisguardia.netlify.app/)  
 👤 [LinkedIn](https://linkedin.com/in/luis-g-ba4732200)  
-🟥 [GitHub](https://github.com/Angel000Tacypoc)  
 📩 guardialuis714@gmail.com
 
 ---
