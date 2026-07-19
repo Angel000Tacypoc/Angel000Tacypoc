@@ -4,7 +4,7 @@
 
 📍 Panamá, Panamá  
 🌐<a href="https://luisguardia.netlify.app/" target="_blank" rel="noopener noreferrer">[Resumen Web]</a>
-👤 [LinkedIn](https://linkedin.com/in/luis-g-ba4732200){:target="_blank"}
+👤 <a href="https://linkedin.com/in/luis-g-ba4732200" target="_blank" rel="noopener noreferrer">[LinkedIn]</a>
 📩 guardialuis714@gmail.com
 
 ---
