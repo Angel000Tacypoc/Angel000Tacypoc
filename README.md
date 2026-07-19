@@ -155,8 +155,7 @@ Redesigned and reorganized the Panama Canal Railway website with improved struct
 ## 🤝 Let's Connect
 
 Feel free to connect with me through LinkedIn, GitHub, or email.
-🌐<a href="https://luisguardia.netlify.app/" target="_blank" rel="noopener noreferrer">Resumen Web</a>
-👤<a href="https://linkedin.com/in/luis-g-ba4732200" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+👤 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-g-ba4732200)  
 📩 guardialuis714@gmail.com
 
 ---
