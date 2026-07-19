@@ -154,7 +154,7 @@ Redesigned and reorganized the Panama Canal Railway website with improved struct
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me through LinkedIn, GitHub, or email.
+Feel free to connect with me through LinkedIn or email.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-g-ba4732200)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guardialuis714@gmail.com)
