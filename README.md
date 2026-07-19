@@ -1,10 +1,10 @@
 # Luis Guardia
 
-**Linux | Redes | Python | Cybersecurity**
+**Linux | Network | Python | Cybersecurity**
 
 📍 Panamá, Panamá  
-🌐 [Resumen Web](https://luisguardia.netlify.app/)  
-👤 [LinkedIn](https://linkedin.com/in/luis-g-ba4732200)  
+🌐 [Resumen Web](https://luisguardia.netlify.app/){:target="_blank"}
+👤 [LinkedIn](https://linkedin.com/in/luis-g-ba4732200){:target="_blank"}
 📩 guardialuis714@gmail.com
 
 ---
